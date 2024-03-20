@@ -11,3 +11,4 @@ Welcome to the repository for a React Native Weather App! This app provides real
     </td>
   </tr>
 </table>
+
