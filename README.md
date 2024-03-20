@@ -4,10 +4,10 @@ Welcome to the repository for a React Native Weather App! This app provides real
 <table>
   <tr>
     <td align="center">
-      <img src="assets/Images/Show1.jpg" alt="Weather App Screenshot 1" style="width: 100%;">
+      <img src="assets/Images/Show1.jpg" alt="Weather App Screenshot 1" style="width: 50%;">
     </td>
     <td align="center">
-      <img src="assets/Images/Show2.jpg" alt="Weather App Screenshot 2" style="width: 100%;">
+      <img src="assets/Images/Show2.jpg" alt="Weather App Screenshot 2" style="width: 50%;">
     </td>
   </tr>
 </table>
